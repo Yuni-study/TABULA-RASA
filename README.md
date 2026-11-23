@@ -5,7 +5,7 @@
   게임 플레이 하러 가기 [Google Drive](https://drive.google.com/drive/folders/1QxzHXSrusEX_jaqvbvi0E0EIKgHbYkzh)
   
 # <i>게임 제목: TABULA RASA</i>
-<img width="700" height="600" alt="image" src="https://github.com/user-attachments/assets/ad68f11c-1718-4a21-8c4e-d9619aa6c740" />
+<img width="700" height="600" alt="1" src="https://github.com/user-attachments/assets/05309864-0964-4af1-ac9b-8d05c379f74c" />
 
 
 ## 목차
@@ -46,11 +46,9 @@
 
 
 ## 🖼️ 게임 화면
-<img src="https://github.com/user-attachments/assets/a8c51043-780f-4341-a3b5-b556d5b69580" width="600"/><br>
-<img src="https://github.com/user-attachments/assets/a55c0a32-0d5d-478b-b38c-f7ada5f87d97" width="600"/><br>
-<img src="https://github.com/user-attachments/assets/393f5e60-7b95-4cad-b404-37d3eb5048f0" width="600"/>
-
-
+<img width="600" alt="2" src="https://github.com/user-attachments/assets/b04972e7-c71d-4cdf-9ab1-0b2abc0feef1" />
+<img width="600" alt="3" src="https://github.com/user-attachments/assets/540c4396-0bff-40af-a5e9-3dda63e2b440" />
+<img width="600" alt="4" src="https://github.com/user-attachments/assets/1610841d-222a-4154-9951-28d03ac0f860" />
 
 
 ## 🕹️ 게임 조작 방법
@@ -103,22 +101,25 @@
 ## ✨ 기술 구현 
 ### FSM + 상태패턴 
 FSM과 상태패턴을 이용해 플레이어의 상태를 구현 
-<img width="3498" height="2416" alt="image" src="https://github.com/user-attachments/assets/ff3f5cb0-7912-4253-aad7-542cbeea1bc6" />
+<img width="3498" height="2416" alt="5" src="https://github.com/user-attachments/assets/3919f7a4-e060-4557-aa9b-65c6b680cfe8" />
+
 
 ### 인벤토리
 드래그 앤 드롭 방식의 그리드(격자) 인벤토리 구현 
 교환 가능한 인벤토리 구현
-<img width="512" height="650" alt="image" src="https://github.com/user-attachments/assets/684a6db0-6034-4b36-b3b8-213a9880848e" />
+<img width="512" height="650" alt="6" src="https://github.com/user-attachments/assets/af1d4c28-15e6-4f73-8d88-c5e933982220" />
+
 
 ### 데이터
 Excel을 SO형식으로 바꾸어 게임내에 사용할 많은 데이터를 관리
+<img width="1310" height="309" alt="7" src="https://github.com/user-attachments/assets/b23e1200-2062-4cef-b2c7-73603f9d751b" />
 
-<img width="1310" height="309" alt="엑셀을 so" src="https://github.com/user-attachments/assets/0aced26e-d5c8-41a7-a73d-bff36a51ce47" />
 -> 원본의 SO를 DataManager에서 복사본을 만들어 사용하도록 만들어 기존의 데이터는 변형을 피하고 데이터를 가지고 오도록 만듦.
 
 ### 데이터테이블
 구분하기 쉽게 Class 단위로 데이터를 나눔.
-<img width="1143" height="614" alt="image" src="https://github.com/user-attachments/assets/a2017740-6846-4be2-b86c-507346b3fef4" />
+<img width="1143" height="614" alt="8" src="https://github.com/user-attachments/assets/74cbda80-6890-4656-90e2-30b03fc826b2" />
+
 
 ### 매니저 
 - 리소스 매니저
